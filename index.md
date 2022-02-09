@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my new GitHub Page
 
-You can use the [editor on GitHub](https://github.com/bri-caszatt/nycdh2022tutorial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non tortor mauris. Sed quis viverra quam. Phasellus eu eros venenatis, suscipit tortor et, rhoncus arcu. Quisque risus mi, hendrerit ac tristique non, cursus quis dolor. Vestibulum eleifend malesuada est ut rhoncus. Duis tincidunt feugiat ex, id elementum dui aliquet ac. Donec maximus lacinia semper. Mauris aliquet fringilla leo, sed suscipit eros rhoncus ac.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
 ### Markdown
 
