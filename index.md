@@ -4,6 +4,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non tortor m
 
 ---
 
+I love cats, especially when they do funny things.
+
+https://youtu.be/STdvxMRuEvY
+
+---
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
