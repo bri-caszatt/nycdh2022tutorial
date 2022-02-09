@@ -2,6 +2,8 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non tortor mauris. Sed quis viverra quam. Phasellus eu eros venenatis, suscipit tortor et, rhoncus arcu. Quisque risus mi, hendrerit ac tristique non, cursus quis dolor. Vestibulum eleifend malesuada est ut rhoncus. Duis tincidunt feugiat ex, id elementum dui aliquet ac. Donec maximus lacinia semper. Mauris aliquet fringilla leo, sed suscipit eros rhoncus ac.
 
+CHANGE
+
 ---
 
 I love cats, especially when they do funny things.
