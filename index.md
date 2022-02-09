@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non tortor m
 
 I love cats, especially when they do funny things.
 
-https://youtu.be/STdvxMRuEvY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/STdvxMRuEvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
